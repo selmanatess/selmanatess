@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selman ATEŞ</h1>
-<h3 align="center">I am 3rd year computer engineering student at Burdur Mehmet AKif Ersoy University.,I'm currently developing projects in flutter</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
